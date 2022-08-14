@@ -112,7 +112,6 @@ select{
     content: "\25BC";
     position: absolute;
     background: #ff6f47;
-    /* top: 0%; */
     right: 0;
     padding: .4rem;
     pointer-events: none;
